@@ -3,7 +3,7 @@
   <body>
     <pre class="mermaid">
         classDiagram
-        class Portfolio{
+        class MonPortfolio{
             +String titre
             +String description
             +String theme
@@ -20,9 +20,9 @@
         class CV{
             +String fichier
         }
-        Portfolio --|> Page : contient
-        Portfolio --|> Projet : contient
-        Portfolio --|> CV : contient
+        MonPortfolio --|> Page : contient
+        MonPortfolio --|> Projet : contient
+        MonPortfolio --|> CV : contient
       
     </pre>
     <script type="module">

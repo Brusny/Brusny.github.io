@@ -9,16 +9,16 @@
             +String theme
         }
         class Page{
-            -String nompage
+            -String nom
             -String contenu
         }
         class Projet{
-            +String nomprojet
+            +String nom
             +String description
             +String url
         }
         class CV{
-            +String nomfichier
+            +String nom
         }
         Portfolio --|> Page : contient
         Portfolio --|> Projet : contient

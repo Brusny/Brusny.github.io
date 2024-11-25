@@ -10,12 +10,17 @@
 - 2017 - 2019 : Niveau Licence 2 en Chimie à l'Université Marien Ngouabi
 
 ## 💼 Expérience professionnel
-- Depuis août 2023 : Apprentti Data analyst au Département de l'Isère
-- 2018 - 2022 : Agent administratif dans une école privée
-
+### Apprentti Data analyst | **Département de l'Isère**
+*août 2023 - Présent*
+- Récupération des données sur Oracle à partir de BusinessObjects
+- Création des tableaux de bord pour la visualisation des KPI de la DRH sur DigDash
+### Agent administratif | **Groupe scolaire Jenny Guillette**
+*octobre 2018 - juin 2022*
+- Rédaction des documents administratifs
+- Calcul des moyennes des éléves
 ## 📚 Projet académique en BUT
 - **Migration de données vers ou depuis un environnement NoSQL (Néo4j & MongoDB)**\
-  Créer deux bases de données NoSQL néo4j, à partir de données stockées dans une base de données relationnelle Postgres.
+  Créer deux bases de données NoSQL (Néo4j, MongoDB) à partir de données stockées dans une base de données relationnelle Postgres.
   1.	Modéliser les données 
   2.	Exporter les données relationnelles sous format csv
   3.	Intégrer ces données dans une base de données Néo4J & MongoDB

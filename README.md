@@ -61,4 +61,3 @@ via un poster.
 - Git (GitHub)
 - SAP (BusinessObjects)
 - Système d'exploitation (Windows, Linux Ubuntu)
-- Les statistiques pour l'analyse des données (Méthodes factorielles, les série temporelles de données, le data mining)

@@ -45,16 +45,20 @@ via un poster.
   - Access : Macros, VBA, PowerQuery
 - Base de données relationnelles (PostgreSQL, Oracle, MySQL, MS Server)
   - Postgre : PL/pgSQL, Fonction de fenêtrage, Base de données spatiale
-  - Oracle : PL/SQL
+  - Oracle : PL/SQL, Fonction de fenêtrage
+  - MyQL : Les procédures stockées et les triggers
 - Base de données NoSQL (MongoDB, Néo4j)
+  - MongoDB en python (pymongo)
+  - Néo4j en python (py2neo)
 - Outils de Dataviz (Power BI, Tableau, DigDash)
 - Méthode de conception de base de données (Merise)
 - Programmation (Python, R, SAS, langage C, VB.net)
   - Python : Numpy, Pandas, Seaborn, PySpark, Sklearn, Streamlit, Folium, POO, Tkinter
-  - R : RMarkdown, RShiny
+  - R : RMarkdown, RShiny, le machine learning
 - Technologie du web (HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX, PHP, svg, Leaflet)
 - ETL (FME)
 - Système d'Information Géographique (ArcGIS, QGis, Leaflet, PostGIS)
 - Git (GitHub)
 - SAP (BusinessObjects)
-- Système d'exploitation (Windows, Linux (Ubuntu))
+- Système d'exploitation (Windows, Linux Ubuntu)
+- Les statistiques pour l'analyse des données (Méthodes factorielles, les série temporelles de données, le data mining)

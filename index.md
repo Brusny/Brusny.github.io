@@ -18,6 +18,7 @@
 *octobre 2018 - juin 2022*
 - Rédaction des documents administratifs
 - Calcul des moyennes des éléves
+---
 ## 📚 Projet académique en BUT
 - **Migration de données vers ou depuis un environnement NoSQL (Néo4j & MongoDB)**\
   Créer deux bases de données NoSQL (Néo4j, MongoDB) à partir de données stockées dans une base de données relationnelle Postgres.
